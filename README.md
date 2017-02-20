@@ -6,6 +6,10 @@ For this analysis / visualisation I use Google Analytics scroll tracking to coll
 
 The visualisation that I built with this R script is particularly useful for individual page analysis; analysing the use of a landingpage or other important page.
 
+![screenshot of ggplot2 output](https://raw.githubusercontent.com/martijnvv/scrollanalytics_r/master/screenshot.jpg)
+
+## Packages used
+
 The packages I have used are:
 * googleAnalyticsR (pulling data from Google Analytics)
 * webshot (creating a .png based on a screenshot of the page)
